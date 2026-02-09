@@ -14,8 +14,11 @@ TBA
    `lorem ipsum`
 2. :
    `lorem ipsum`
+<br>
+-----------------------------------------
+<br>
 
-Pushing and Pulling: <br>
+**Pushing and Pulling:** <br>
 ..\uplift\ git pull origin main <br>
 ..\uplift\ npm run dev <br>
 ..\uplift\ npm run build <br>
