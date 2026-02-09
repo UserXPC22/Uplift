@@ -8,12 +8,20 @@ This contains everything you need to run your app locally.
 ## Run Locally
 
 **Prerequisites:** 
+TBA
 
+1. :
+   `lorem ipsum`
+2. :
+   `lorem ipsum`
 
-1. Install dependencies:
-   `npm install`
-2. Run the app:
-   `npm run dev`
+Pushing and Pulling:
+..\uplift\ git pull origin main
+..\uplift\ npm run dev
+..\uplift\ npm run build
+..\uplift\ git stage -A
+..\uplift\ git commit -m "section | changes"
+..\uplift\ git push origin main
 
 # Architecture Used
 
