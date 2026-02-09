@@ -16,12 +16,12 @@ TBA
    `lorem ipsum`
 
 Pushing and Pulling:
-..\uplift\ git pull origin main
-..\uplift\ npm run dev
-..\uplift\ npm run build
-..\uplift\ git stage -A
-..\uplift\ git commit -m "section | changes"
-..\uplift\ git push origin main
+..\uplift\ git pull origin main <br>
+..\uplift\ npm run dev <br>
+..\uplift\ npm run build <br>
+..\uplift\ git stage -A <br>
+..\uplift\ git commit -m "section | changes" <br>
+..\uplift\ git push origin main <br>
 
 # Architecture Used
 
