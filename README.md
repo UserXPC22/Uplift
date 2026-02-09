@@ -15,13 +15,15 @@ TBA
 2. :
    `lorem ipsum`
 
-Pushing and Pulling:
+Pushing and Pulling: <br>
 ..\uplift\ git pull origin main <br>
 ..\uplift\ npm run dev <br>
 ..\uplift\ npm run build <br>
 ..\uplift\ git stage -A <br>
 ..\uplift\ git commit -m "section | changes" <br>
 ..\uplift\ git push origin main <br>
+
+[ALWAYS PULL FIRST THEN PUSH LATER]
 
 # Architecture Used
 
