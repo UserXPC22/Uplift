@@ -9,10 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@capacitor/android": "^8.0.2",
+    "@capacitor/cli": "^8.0.2",
+    "@capacitor/core": "^8.0.2",
+    "@google/genai": "1.40.0",
+    "@types/react-native": "^0.72.8",
     "react": "18.3.1",
     "react-dom": "18.3.1",
-    "react-native": "0.19.13",
-    "@google/genai": "1.40.0"
+    "react-native-web": "^0.21.2"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",

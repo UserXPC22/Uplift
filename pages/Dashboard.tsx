@@ -35,7 +35,7 @@ const Dashboard: React.FC<DashboardProps> = ({ isDarkMode, recentlyViewed, onJob
       <View style={styles.section}>
         <View style={styles.sectionHeader}>
           <Text style={[styles.sectionTitle, { color: textColor }]}>Recent Activity</Text>
-          <TouchableOpacity onPress={onSeeAll}><Text style={[styles.seeAll, { color: textColor }]}>History ></Text></TouchableOpacity>
+          <TouchableOpacity onPress={onSeeAll}><Text style={[styles.seeAll, { color: textColor }]}>History &gt;</Text></TouchableOpacity>
         </View>
 
         <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.featuredRow}>
